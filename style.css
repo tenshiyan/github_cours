@@ -1,9 +1,3 @@
-@font-face {
-    font-family: 'AguafinaScript';
-    src: url('font/AguafinaScript-Regular.ttf');
-}
-
-
 body {
   background-image: url('img/bg.jpg');
 }
